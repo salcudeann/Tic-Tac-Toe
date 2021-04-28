@@ -1,0 +1,10 @@
+C:\Users\adisa\source\repos\TTT\TTT\bin\Debug\TTT.exe.config
+C:\Users\adisa\source\repos\TTT\TTT\bin\Debug\TTT.exe
+C:\Users\adisa\source\repos\TTT\TTT\bin\Debug\TTT.pdb
+C:\Users\adisa\source\repos\TTT\TTT\obj\Debug\TTT.csprojAssemblyReference.cache
+C:\Users\adisa\source\repos\TTT\TTT\obj\Debug\TTT.Form1.resources
+C:\Users\adisa\source\repos\TTT\TTT\obj\Debug\TTT.Properties.Resources.resources
+C:\Users\adisa\source\repos\TTT\TTT\obj\Debug\TTT.csproj.GenerateResource.cache
+C:\Users\adisa\source\repos\TTT\TTT\obj\Debug\TTT.csproj.CoreCompileInputs.cache
+C:\Users\adisa\source\repos\TTT\TTT\obj\Debug\TTT.exe
+C:\Users\adisa\source\repos\TTT\TTT\obj\Debug\TTT.pdb
